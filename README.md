@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <!-- - 🌱 I’m currently learning AI and Compiler Design along with that I am studying Deep Learning. <br> -->
 <!-- - 👯 I’m looking to collaborate on <i>Ocean Cleanup Projects</i>. <br> -->
 <!-- - 🤔 I’m looking for help with <i>Finding an interesting project</i>. <br> -->
-- 💬 Ask me about <a href = "https://priyanshbordia.github.io" style="text-decoration: none !important;">anything</a>. <br>
 - 📫 How to reach me: <a href = "">E-mail</a>. <br>
 - 😄 Pronouns: he / his / him <br>
 <!-- - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge". <br> -->
