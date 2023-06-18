@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges">
+  <a href="https://portfolio-kinmod-ui.vercel.app/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/pratham-khandelwal-489a79192/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
 </div>
 
 <h1>
@@ -27,7 +31,7 @@ Here are some ideas to get you started:
 <details open>
   <summary>About</summary>
 - 👋 I'm Pratham Khandelwal, an engineer 💻 based in India. <br>
-- 🏘 I'm pursuing Bachelors in Technology major Computer Science and Engineering from LNMIIT, Jaipur. <br>
+- 🏘 I'm pursuing Bachelor in Technology major in Computer Science and Engineering from LNMIIT, Jaipur. <br>
 - 🔭 I’m currently working with Samsung. <br>
 - 📫 How to reach me: <a href = "mailto:impratham2001@gmail.com">E-mail</a>. <br>
 </details>
