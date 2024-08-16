@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <details open>
   <summary>About</summary>
 - 👋 I'm Pratham Khandelwal, an engineer 💻 based in India. <br>
-- 🏘 I'm pursuing Bachelor in Technology major in Computer Science and Engineering from LNMIIT, Jaipur. <br>
 - 🔭 I’m currently working with Samsung. <br>
 - 📫 How to reach me: <a href = "mailto:impratham2001@gmail.com">E-mail</a>. <br>
 </details>
